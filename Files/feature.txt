@@ -1,2 +1,3 @@
 Feature file
 Line 1 of the check
+Line 2 of the check
