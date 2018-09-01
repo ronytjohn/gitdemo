@@ -2,3 +2,4 @@ Feature file
 Line 1 of the check
 Line 2 of the check
 Line 11 of feature_2
+Line 3 of master
