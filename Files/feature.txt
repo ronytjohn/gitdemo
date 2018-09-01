@@ -1,1 +1,2 @@
 Feature file
+Line 3 entered
