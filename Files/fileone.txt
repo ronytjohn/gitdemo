@@ -1,4 +1,4 @@
 This is the first line :
 This line was added from git online
 This is from master from command line
-This after feature branch was created
+This after feature branch was deleted 
