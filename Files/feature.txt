@@ -2,3 +2,4 @@ Feature file
 Line 1 of the check
 Line 2 of the check
 Line 3 of the check - 092020
+Line 4 of the check - 092020
