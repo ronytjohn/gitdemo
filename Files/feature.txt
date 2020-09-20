@@ -5,4 +5,6 @@ Line 3 of the check - 092020
 Line 5 of the check - 092020
 Line 4 of the check - 092020
 Line 8 of the check - 092020
+Line 7 of the check - 092020
+
 
